@@ -1,0 +1,19 @@
+# Folders to ignore
+__pycache__/
+*.py[cod]
+env*/         # Your virtual environment folder (like env-little-lemon)
+*.sqlite3      # Local SQLite DB
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode settings
+.vscode/
+
+# Python & Django specific
+db.sqlite3
+staticfiles/
+media/
+.env
