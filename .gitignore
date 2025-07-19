@@ -13,7 +13,7 @@ env*/         # Your virtual environment folder (like env-little-lemon)
 .vscode/
 
 # Python & Django specific
-db.sqlite3
+
 staticfiles/
 media/
 .env
